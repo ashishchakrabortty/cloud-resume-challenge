@@ -1,0 +1,66 @@
+* {
+  max-width: 700px;
+  margin: auto;
+}
+
+
+/*body {
+    min-width: 500px;
+}*/
+
+div {
+  border-radius: 5px;
+}
+
+.header {
+  height: 80px;
+  text-align: center;
+  width: 100%;
+  position: center;
+  z-index: 1;
+  font-family: Arial, sans-serif;
+}
+.name {
+      font-size: 24px;
+      font-weight: bold;
+      font-family: Arial, sans-serif;
+    }
+.contact-info {
+   font-size:14px;   
+   margin-top: 10px;
+   font-family: Arial, sans-serif;
+    }
+
+.section {
+      margin-top: 20px;
+    }
+.section-title {
+      font-size: 20px;
+      font-weight: bold;
+      font-family: Arial, sans-serif
+    }
+.section-content {
+      margin-top: 10px;
+      font-family: Arial, sans-serif;
+    }
+
+p,ul {
+  list-style: disc outside none;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
